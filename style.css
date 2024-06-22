@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Playwrite+NZ:wght@100..400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Playwrite+NZ:wght@100..400&family=Playwrite+SK:wght@100..400&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 60vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("./1000_F_595207463_ueMgQikj13hYZ2NzOyG5Z27bwMUcUmUf.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+
+}
+h1{
+    color: white;
+    display: block;
+    text-decoration: none;
+    margin-top: 4%;
+    margin-left: 30px;
+  letter-spacing: 20px;
+   font-family: 'Playwrite NZ';
+}
+p{
+    margin-top: 2%;
+    margin-left: 30px;
+  letter-spacing: 13px;
+   font-family: 'Dancing Script';
+   color: white;
+   font-size: 20px;
+}
